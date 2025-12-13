@@ -23,4 +23,4 @@ My LeetCode Profile
 Sanskar Sinha
 Profile Link:
 https://leetcode.com/u/Sanskar225/
-[alt text](image.png)
+///![alt text](image.png)
